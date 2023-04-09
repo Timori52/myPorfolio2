@@ -1,71 +1,65 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://timori52.github.io/',
   title: 'JS.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
+  
   name: 'Sumit Timori',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Experienced Front-End Developer skilled in advanced web development with expertise in REACT.js and CSS libraries. Proficient in UI, testing, and debugging, with a passion for continuous learning. Seeking opportunities to utilize skills and collaborate in a team while expanding knowledge. Detail-oriented and adept at independent project management.',
+  resume: 'https://drive.google.com/file/d/1XxcIMbQ5_-Z79qDSBIDNB9EzCzqyrB6u/view?usp=share_link',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/sumit-timori-bbb541154/',
+    github: 'https://github.com/Timori52',
   },
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
+  
   {
-    name: 'Project 1',
+    name: 'E-Commerce',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Developed a responsive e-commerce website with React.JS and implemented add/remove, search, and filter functionalities & Utilized Faker.js to randomly generate product data, making the website more dynamic and realistic.',
+    stack: ['React-Bootstrap', 'JavaScript', 'React'],
+    sourceCode: 'https://github.com/Timori52/CRUD-based-Shopping-Cart-ContextAPI-React-Hooks-App-',
+    
   },
   {
-    name: 'Project 2',
+    name: 'ED-tech Company',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Developed a responsive and user-friendly website for an Ed-Tech company using React.JS and Restful APIs & Converted the website to Next.js to improve performance and SEO. Collaborated with design and QA teams, provided ongoing maintenance and support.',
+    stack: ['React',"NextJS","RestAPI", "Tailwind", "Redux","Postman"  ],
+    sourceCode: 'https://github.com/Timori52/D-Community-Website',
+   
   },
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
+  
+  'HTML5',
+  'CSS3',
   'JavaScript',
-  'TypeScript',
+  'ES6',
   'React',
   'Redux',
-  'SASS',
-  'Material UI',
+  'NextJS',
+  'MySQL',
+  'Tailwind',
+  'Bootstrap',
+  'Figma',
+  'RESTful API',
+  'Postman',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'GitHub',
+  'Npm',
 ]
+  
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'Timori52@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
