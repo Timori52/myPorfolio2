@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Timori52.github.io/static/css/main.e083f29e.chunk.css",
+    "main.js": "/Timori52.github.io/static/js/main.ad56dc24.chunk.js",
+    "main.js.map": "/Timori52.github.io/static/js/main.ad56dc24.chunk.js.map",
+    "runtime-main.js": "/Timori52.github.io/static/js/runtime-main.a28091b7.js",
+    "runtime-main.js.map": "/Timori52.github.io/static/js/runtime-main.a28091b7.js.map",
+    "static/js/2.1b96dbdd.chunk.js": "/Timori52.github.io/static/js/2.1b96dbdd.chunk.js",
+    "static/js/2.1b96dbdd.chunk.js.map": "/Timori52.github.io/static/js/2.1b96dbdd.chunk.js.map",
+    "index.html": "/Timori52.github.io/index.html",
+    "static/css/main.e083f29e.chunk.css.map": "/Timori52.github.io/static/css/main.e083f29e.chunk.css.map",
+    "static/js/2.1b96dbdd.chunk.js.LICENSE.txt": "/Timori52.github.io/static/js/2.1b96dbdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28091b7.js",
+    "static/js/2.1b96dbdd.chunk.js",
+    "static/css/main.e083f29e.chunk.css",
+    "static/js/main.ad56dc24.chunk.js"
+  ]
+}
